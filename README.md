@@ -1,2 +1,2 @@
-# sequal-window-attack
-Codebase for SequA: Understanding Minimal-Time Attacks on Reinforcement Learning Agents
+# sequΛ-window-attack
+Codebase for SequΛ: Understanding Minimal-Time Attacks on Reinforcement Learning Agents
